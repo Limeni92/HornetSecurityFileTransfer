@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "HornetSecurityFileTransfer": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
